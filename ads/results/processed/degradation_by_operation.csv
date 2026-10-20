@@ -1,0 +1,7 @@
+perfil,operacao,tempo_A_ms,tempo_B_ms,tempo_C_ms,aumento_absoluto_ms,aumento_percentual
+Leitura,/api/customer/owners,75.6841,1209.8664,441.8550,366.1710,483.8151
+Leitura,/api/customer/owners/{id},8.1335,1024.7684,384.9032,376.7697,4632.2952
+Leitura,/api/vet/vets,8.1832,5.3966,4.7305,-3.4527,-42.1930
+Escrita,/api/customer/owners,733.6432,229.1289,71.3931,-662.2501,-90.2687
+Escrita,/api/customer/owners/{id},440.4891,183.9054,50.9444,-389.5447,-88.4346
+Escrita,/api/vet/vets,6.1141,4.3501,4.9768,-1.1373,-18.6012

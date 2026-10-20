@@ -1,0 +1,13 @@
+perfil,cenario,usuarios,servico,repeticoes,cpu_media_percent,cpu_max_percent,memoria_media_percent,memoria_max_percent
+Escrita,A,30,customers-service,10,115.1848,212.0840,86.5039,87.3150
+Escrita,A,30,vets-service,10,1.1827,6.7220,69.5148,69.9650
+Escrita,B,80,customers-service,10,78.5378,122.8930,89.8749,90.4540
+Escrita,B,80,vets-service,10,0.3739,3.8400,70.8932,70.9560
+Escrita,C,150,customers-service,10,0.2493,2.1080,91.2478,91.3370
+Escrita,C,150,vets-service,10,0.3362,2.6660,71.1275,71.1650
+Leitura,A,30,customers-service,10,71.8556,181.5400,87.4106,87.8790
+Leitura,A,30,vets-service,10,1.6258,10.4060,69.4556,70.1730
+Leitura,B,80,customers-service,10,146.4906,271.7880,94.6355,95.0020
+Leitura,B,80,vets-service,10,0.5950,6.0960,70.4148,70.4990
+Leitura,C,150,customers-service,10,128.1515,242.2420,94.8648,95.1970
+Leitura,C,150,vets-service,10,0.3528,2.7420,71.0490,71.1130
